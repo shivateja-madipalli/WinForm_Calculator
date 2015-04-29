@@ -1,0 +1,9 @@
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\bin\Debug\WinForm_Calculator.exe.config
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\bin\Debug\WinForm_Calculator.exe
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\bin\Debug\WinForm_Calculator.pdb
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.csprojResolveAssemblyReference.cache
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.Form1.resources
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.Properties.Resources.resources
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.csproj.GenerateResource.Cache
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.exe
+D:\CMPE 285\calculator\WinForm\WinForm_Calculator\WinForm_Calculator\obj\Debug\WinForm_Calculator.pdb
